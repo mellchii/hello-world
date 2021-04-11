@@ -148,4 +148,4 @@ dna_dict["TATC"] = tatc_count
 dna_dict["GAAA"] = gaaa_count
 dna_dict["TCTG"] = tctg_count
 print(dna_dict)
-
+print(dna_dict)
